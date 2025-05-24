@@ -51,9 +51,9 @@ Buka browser dan akses:
 
 ## 🖼️ Cuplikan Tampilan
 
-![Home Page] <img src ="Screenshot 2025-05-24 211816.png" width ="100%" height= "800px">
-![Detail Page] <img src = "Screenshot 2025-05-24 211805.png" width ="100%" height="800px">
-![Recommendation Page] <img src ="Screenshot 2025-05-24 211739.png" widht="100%" height="800px">
+<img src ="Screenshot 2025-05-24 211816.png" width ="100%" height= "500px">
+<img src = "Screenshot 2025-05-24 211805.png" width ="100%" height="500px">
+<img src ="Screenshot 2025-05-24 211739.png" widht="100%" height="500px">
 
 ## 📚 Sumber Data
 
@@ -74,7 +74,7 @@ Kontribusi terbuka untuk semua! Ikuti langkah berikut untuk menyumbang:
 
 Proyek ini dikembangkan oleh:
 **Dwi Bakti N Dev**
-[LinkedIn](https://linkedin.com) • [GitHub](https://github.com) • [Website Portofolio](https://yourwebsite.dev)
+[LinkedIn](https://linkedin.com) • [GitHub](https://github.com) • [Website Portofolio](https://profiledwibaktindev.netlify.app/)
 
 ## 📄 Lisensi
 
