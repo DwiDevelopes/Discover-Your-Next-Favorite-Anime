@@ -1,4 +1,4 @@
-
+<img src ="Screenshot 2025-05-24 211514.png">
 ---
 
 # 🌟 Discover Your Next Favorite Anime
