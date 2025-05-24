@@ -51,9 +51,9 @@ Buka browser dan akses:
 
 ## 🖼️ Cuplikan Tampilan
 
-![Home Page] <img src ="Screenshot 2025-05-24 211816.png" width ="100%" height= "200px">
-![Detail Page] <img src = "Screenshot 2025-05-24 211805.png" width ="100%" height="200px">
-![Recommendation Page] <img src ="Screenshot 2025-05-24 211739.png" widht="100%" height="200px">
+![Home Page] <img src ="Screenshot 2025-05-24 211816.png" width ="100%" height= "800px">
+![Detail Page] <img src = "Screenshot 2025-05-24 211805.png" width ="100%" height="800px">
+![Recommendation Page] <img src ="Screenshot 2025-05-24 211739.png" widht="100%" height="800px">
 
 ## 📚 Sumber Data
 
